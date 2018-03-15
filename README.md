@@ -1,2 +1,3 @@
 # coffeeprofanus
-Profane's notes on coffee (inspired by professionals and fans, though)
+Заметки о кофе, сделанные полным профаном
+(впрочем, не без вдохновения, почерпнутого у профессионалов и фанатов)
